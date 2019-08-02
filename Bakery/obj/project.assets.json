@@ -12082,11 +12082,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Action\\Desktop\\bakery2\\Bakery\\Program.csproj",
-      "projectName": "Program",
-      "projectPath": "c:\\Users\\Action\\Desktop\\bakery2\\Bakery\\Program.csproj",
+      "projectUniqueName": "C:\\Users\\Action\\desktop\\bakery2\\bakery\\ToDoList.csproj",
+      "projectName": "ToDoList",
+      "projectPath": "C:\\Users\\Action\\desktop\\bakery2\\bakery\\ToDoList.csproj",
       "packagesPath": "C:\\Users\\Action\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Action\\Desktop\\bakery2\\Bakery\\obj\\",
+      "outputPath": "C:\\Users\\Action\\desktop\\bakery2\\bakery\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

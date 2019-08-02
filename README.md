@@ -6,18 +6,13 @@
 
 ## Description
 
-This will let the user , 7/28/2019.
+This will let the user create and see "vendors" for their "orders", 8/02/2019.
 
 ### Specs
 
-* Prompts user for a sentence: Input, "I want some coffee"
-  Output, "sentence = I want some coffee, word = coffee".
-
-* Checks how many times a word appears in a sentence:
-  Input:"Please put more coffee in my coffee mug" Output "coffee" = int 2
-
-* Will not count if selected word is in another word
-  Input: "she sells sea shells by the seashore" Output "sea"= int1
+* User creates vendor 
+  User can add orders to vendor
+  Can then see what orders were added to vendor 
 
 
 
@@ -29,7 +24,7 @@ This will let the user , 7/28/2019.
 * No known bugs at this time.
 
 ## Technologies Used
-* C#
+* C#, Razor
 
 
 ## Support and contact details

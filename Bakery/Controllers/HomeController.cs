@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using CityMang.Models;
+using Bakery.Models;
 
-namespace  CityMang.Controllers
+namespace Bakery.Controllers
 {
     public class HomeController : Controller
     {
@@ -11,6 +11,6 @@ namespace  CityMang.Controllers
       {
         return View();
       }
-      
+
     }
 }

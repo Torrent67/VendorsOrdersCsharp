@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Action\\Desktop\\bakery2\\Bakery\\Program.csproj",
+  "FilePath": "c:\\Users\\Action\\Desktop\\bakery2\\Bakery\\ToDoList.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2940,7 +2940,7 @@
     ],
     "CSharpLanguageVersion": 703
   },
-  "RootNamespace": "Program",
+  "RootNamespace": "ToDoList",
   "Documents": [
     {
       "FilePath": "Views\\Home\\Index.cshtml",
@@ -2948,18 +2948,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\City\\myCityUpdated.cshtml",
-      "TargetPath": "Views\\City\\myCityUpdated.cshtml",
+      "FilePath": "Views\\Items\\CreateForm.cshtml",
+      "TargetPath": "Views\\Items\\CreateForm.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\City\\myCity.cshtml",
-      "TargetPath": "Views\\City\\myCity.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\City\\BuildMenu.cshtml",
-      "TargetPath": "Views\\City\\BuildMenu.cshtml",
+      "FilePath": "Views\\Items\\Index.cshtml",
+      "TargetPath": "Views\\Items\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
