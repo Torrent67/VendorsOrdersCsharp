@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/Guest/Desktop/citybuilderInprogress/CityMang/Program.csproj",
+  "FilePath": "c:\\Users\\Action\\Desktop\\bakery2\\Bakery\\Program.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2943,23 +2943,23 @@
   "RootNamespace": "Program",
   "Documents": [
     {
-      "FilePath": "Views/City/myCityUpdated.cshtml",
-      "TargetPath": "Views/City/myCityUpdated.cshtml",
+      "FilePath": "Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/City/myCity.cshtml",
-      "TargetPath": "Views/City/myCity.cshtml",
+      "FilePath": "Views\\City\\myCityUpdated.cshtml",
+      "TargetPath": "Views\\City\\myCityUpdated.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Home/Index.cshtml",
-      "TargetPath": "Views/Home/Index.cshtml",
+      "FilePath": "Views\\City\\myCity.cshtml",
+      "TargetPath": "Views\\City\\myCity.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/City/BuildMenu.cshtml",
-      "TargetPath": "Views/City/BuildMenu.cshtml",
+      "FilePath": "Views\\City\\BuildMenu.cshtml",
+      "TargetPath": "Views\\City\\BuildMenu.cshtml",
       "FileKind": "mvc"
     }
   ],
