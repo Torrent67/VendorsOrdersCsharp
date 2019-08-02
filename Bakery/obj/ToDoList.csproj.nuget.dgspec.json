@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Action\\desktop\\bakery2\\bakery\\ToDoList.csproj": {}
+    "C:\\Users\\Action\\desktop\\bakery2\\Bakery\\ToDoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Action\\desktop\\bakery2\\bakery\\ToDoList.csproj": {
+    "C:\\Users\\Action\\desktop\\bakery2\\Bakery\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Action\\desktop\\bakery2\\bakery\\ToDoList.csproj",
+        "projectUniqueName": "C:\\Users\\Action\\desktop\\bakery2\\Bakery\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "C:\\Users\\Action\\desktop\\bakery2\\bakery\\ToDoList.csproj",
+        "projectPath": "C:\\Users\\Action\\desktop\\bakery2\\Bakery\\ToDoList.csproj",
         "packagesPath": "C:\\Users\\Action\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Action\\desktop\\bakery2\\bakery\\obj\\",
+        "outputPath": "C:\\Users\\Action\\desktop\\bakery2\\Bakery\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

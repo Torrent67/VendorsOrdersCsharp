@@ -10,20 +10,20 @@ namespace Bakery.Controllers
     [HttpGet("/items")]
     public ActionResult Index()
     {
-      List<Parcel> allItems = Parcel.GetAll();
+      List<Vendors> allItems = Vendors.GetAll();
       return View(allItems);
     }
 
     [HttpGet("/items/new")]
-    public ActionResult CreateForm()
+    public ActionResult CreateForm(string vendorName)
     {
       return View();
     }
 
     [HttpPost("/items")]
-    public ActionResult Create(int sidex, int sidey, int sidez, int weight)
+    public ActionResult Create(string vendorName)
     {
-      Parcel myItem = new Parcel(sidex, sidey, sidez, weight);
+      Vendors myItem = new Vendors(vendorName);
       return RedirectToAction("Index");
     }
 

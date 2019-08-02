@@ -24,7 +24,7 @@ This will let the user create and see "vendors" for their "orders", 8/02/2019.
 * No known bugs at this time.
 
 ## Technologies Used
-* C#, Razor
+* C#, Razor, MVC
 
 
 ## Support and contact details
