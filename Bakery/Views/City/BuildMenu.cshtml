@@ -1,0 +1,28 @@
+@using CityMang;
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title>CityHomepage</title>
+    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+  </head>
+  <body>
+    
+    <h1>Enter the amount per building you want to build!</h1>
+    <hr>
+    <form action="/city/myCity" method="post">
+      <label for="farmUp">Farms </label>
+      <input id="farmUp" name="farmUp" type="number" value=0>
+      <label for="marketUp">Markets</label>
+      <input id="marketUp" name="marketUp" type="number" value=0>
+      <label for="mineUp">Mines</label>
+      <input id="mineUp" name="mineUp" type="number" value=0>
+      <label for="sawmillUp">Sawmills</label>
+      <input id="sawmillUp" name="sawmillUp" type="number" value=0>
+      <label for="houseUp">Houses</label>
+      <input id="houseUp" name="houseUp" type="number" value=0>
+      <button type="submit">Submit</button>
+  </form>
+  </body>
+</html>

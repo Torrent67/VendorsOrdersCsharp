@@ -1,0 +1,13 @@
+@using CityMang;
+@using CityMang.Models;
+
+<h1>@Model.Name</h1>
+
+<h2>Resources</h2>
+
+@foreach(KeyValuePair<string, int> building in City.myCity)
+{
+    <p>@building.Key : @building.Value</p>
+}
+
+<a href='/city/BuildMenu'>Build some shit</a>
