@@ -2948,18 +2948,28 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Items\\CreateForm.cshtml",
-      "TargetPath": "Views\\Items\\CreateForm.cshtml",
+      "FilePath": "Views\\ItemsVendors\\ViewVendors.cshtml",
+      "TargetPath": "Views\\ItemsVendors\\ViewVendors.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Items\\ViewVendors.cshtml",
-      "TargetPath": "Views\\Items\\ViewVendors.cshtml",
+      "FilePath": "Views\\ItemOrders\\ViewOrder.cshtml",
+      "TargetPath": "Views\\ItemOrders\\ViewOrder.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Items\\Index.cshtml",
-      "TargetPath": "Views\\Items\\Index.cshtml",
+      "FilePath": "Views\\ItemsVendors\\CreateForm.cshtml",
+      "TargetPath": "Views\\ItemsVendors\\CreateForm.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\ItemOrders\\NewOrder.cshtml",
+      "TargetPath": "Views\\ItemOrders\\NewOrder.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\ItemsVendors\\Index.cshtml",
+      "TargetPath": "Views\\ItemsVendors\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
