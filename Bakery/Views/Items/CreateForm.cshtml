@@ -1,5 +1,12 @@
-<form action="/items" method="post">
-  <label for="vendorname">Enter Vendor name</label>
+<p>Add new Vendor</p>
+
+<form action="/vendors" method="post">
+  <label for="vendorName">Vendor name</label>
   <input id="vendorName" name="vendorName" type="text">
-  <button type="submit">Submit</button>
+  <label for="vendorDesc">Description for vendor</label>
+  <input id="vendorDesc" name="vendorDesc" type="text">
+  <button type="submit">Add</button>
 </form>
+
+<p><a href="/">Back home</a></p>
+<p><a href="/vendors">Back to vendor list.</a></p>

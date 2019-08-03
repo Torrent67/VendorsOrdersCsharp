@@ -2953,6 +2953,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\Items\\ViewVendors.cshtml",
+      "TargetPath": "Views\\Items\\ViewVendors.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Items\\Index.cshtml",
       "TargetPath": "Views\\Items\\Index.cshtml",
       "FileKind": "mvc"
