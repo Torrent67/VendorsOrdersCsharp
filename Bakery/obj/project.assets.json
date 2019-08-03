@@ -12082,9 +12082,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Action\\desktop\\bakery2\\bakery\\ToDoList.csproj",
-      "projectName": "ToDoList",
-      "projectPath": "C:\\Users\\Action\\desktop\\bakery2\\bakery\\ToDoList.csproj",
+      "projectUniqueName": "C:\\Users\\Action\\desktop\\bakery2\\bakery\\Program.csproj",
+      "projectName": "Program",
+      "projectPath": "C:\\Users\\Action\\desktop\\bakery2\\bakery\\Program.csproj",
       "packagesPath": "C:\\Users\\Action\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Action\\desktop\\bakery2\\bakery\\obj\\",
       "projectStyle": "PackageReference",

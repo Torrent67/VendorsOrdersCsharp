@@ -46,8 +46,8 @@ C:\Users\Action\desktop\bakery2\bakery\obj\Debug\netcoreapp2.2\ToDoList.Views.pd
 C:\Users\Action\desktop\bakery2\bakery\obj\Debug\netcoreapp2.2\ToDoList.dll
 C:\Users\Action\desktop\bakery2\bakery\obj\Debug\netcoreapp2.2\ToDoList.pdb
 C:\Users\Action\desktop\bakery2\bakery\obj\Debug\netcoreapp2.2\ToDoList.csproj.CopyComplete
-C:\Users\Action\desktop\bakery2\bakery\obj\Debug\netcoreapp2.2\Razor\Views\ItemOrders\NewOrder.g.cshtml.cs
-C:\Users\Action\desktop\bakery2\bakery\obj\Debug\netcoreapp2.2\Razor\Views\ItemOrders\ViewOrder.g.cshtml.cs
-C:\Users\Action\desktop\bakery2\bakery\obj\Debug\netcoreapp2.2\Razor\Views\ItemsVendors\CreateForm.g.cshtml.cs
-C:\Users\Action\desktop\bakery2\bakery\obj\Debug\netcoreapp2.2\Razor\Views\ItemsVendors\Index.g.cshtml.cs
-C:\Users\Action\desktop\bakery2\bakery\obj\Debug\netcoreapp2.2\Razor\Views\ItemsVendors\ViewVendors.g.cshtml.cs
+C:\Users\Action\desktop\bakery2\bakery\obj\Debug\netcoreapp2.2\Razor\Views\Orders\New.g.cshtml.cs
+C:\Users\Action\desktop\bakery2\bakery\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Show.g.cshtml.cs
+C:\Users\Action\desktop\bakery2\bakery\obj\Debug\netcoreapp2.2\Razor\Views\Vendor\Index.g.cshtml.cs
+C:\Users\Action\desktop\bakery2\bakery\obj\Debug\netcoreapp2.2\Razor\Views\Vendor\New.g.cshtml.cs
+C:\Users\Action\desktop\bakery2\bakery\obj\Debug\netcoreapp2.2\Razor\Views\Vendor\Show.g.cshtml.cs
