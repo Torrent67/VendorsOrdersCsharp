@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Action\\Desktop\\bakery2\\Bakery\\ToDoList.csproj",
+  "FilePath": "c:\\Users\\Action\\Desktop\\bakery2\\Bakery\\Program.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2940,7 +2940,7 @@
     ],
     "CSharpLanguageVersion": 703
   },
-  "RootNamespace": "ToDoList",
+  "RootNamespace": "Program",
   "Documents": [
     {
       "FilePath": "Views\\Home\\Index.cshtml",

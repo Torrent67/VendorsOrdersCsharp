@@ -12,7 +12,8 @@ namespace Bakery.Controllers
     public ActionResult Index()
     {
       List<Vendor> allVendors = Vendor.GetAll();
-      return View(allVendors)
+      return View(allVendors);
+    }
 
     [HttpGet("/vendors/new")]
     public ActionResult New()
