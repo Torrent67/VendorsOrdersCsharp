@@ -40,7 +40,6 @@ namespace Bakery.Controllers
     }
 
 
-    // This one creates new Items within a given Vendor, not new Categories:
     [HttpPost("/vendor/{vendorId}/order")]
     public ActionResult Create(int vendorId, string NewOrder, string orderDesc, int price, string orderDate)
     {

@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Action\\Desktop\\bakery2\\Bakery\\Program.csproj",
+  "FilePath": "/Users/Guest/Desktop/VendorsOrdersCsharp/Bakery/Program.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2943,33 +2943,33 @@
   "RootNamespace": "Program",
   "Documents": [
     {
-      "FilePath": "Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "Views/Vendor/New.cshtml",
+      "TargetPath": "Views/Vendor/New.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Vendor\\Show.cshtml",
-      "TargetPath": "Views\\Vendor\\Show.cshtml",
+      "FilePath": "Views/Orders/Show.cshtml",
+      "TargetPath": "Views/Orders/Show.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Orders\\Show.cshtml",
-      "TargetPath": "Views\\Orders\\Show.cshtml",
+      "FilePath": "Views/Orders/New.cshtml",
+      "TargetPath": "Views/Orders/New.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Vendor\\Index.cshtml",
-      "TargetPath": "Views\\Vendor\\Index.cshtml",
+      "FilePath": "Views/Vendor/Show.cshtml",
+      "TargetPath": "Views/Vendor/Show.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Vendor\\New.cshtml",
-      "TargetPath": "Views\\Vendor\\New.cshtml",
+      "FilePath": "Views/Vendor/Index.cshtml",
+      "TargetPath": "Views/Vendor/Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Orders\\New.cshtml",
-      "TargetPath": "Views\\Orders\\New.cshtml",
+      "FilePath": "Views/Home/Index.cshtml",
+      "TargetPath": "Views/Home/Index.cshtml",
       "FileKind": "mvc"
     }
   ],
