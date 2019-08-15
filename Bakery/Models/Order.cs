@@ -5,11 +5,11 @@ namespace Bakery.Models
 {
     public class Order
     {
-        public string newOrder { get; set; }
-        public string orderDesc { get; set; }
-        public int price { get; set; }
-        public string orderDate { get; set; }
-        public int Id { get; }
+        public string newOrder { get; set;}
+        public string orderDesc { get; set;}
+        public int price { get; set;}
+        public string orderDate { get; set;}
+        public int Id { get;}
         private static List<Order> _instances = new List<Order> { };
 
         public Order(string NewOrder, string Description, int Price, string date)

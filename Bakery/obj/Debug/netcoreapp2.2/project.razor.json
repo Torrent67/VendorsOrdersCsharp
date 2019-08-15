@@ -2943,11 +2943,6 @@
   "RootNamespace": "Program",
   "Documents": [
     {
-      "FilePath": "Views/Vendor/New.cshtml",
-      "TargetPath": "Views/Vendor/New.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "Views/Orders/Show.cshtml",
       "TargetPath": "Views/Orders/Show.cshtml",
       "FileKind": "mvc"
@@ -2958,18 +2953,23 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Vendor/Show.cshtml",
-      "TargetPath": "Views/Vendor/Show.cshtml",
+      "FilePath": "Views/Vendors/Show.cshtml",
+      "TargetPath": "Views/Vendors/Show.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Vendor/Index.cshtml",
-      "TargetPath": "Views/Vendor/Index.cshtml",
+      "FilePath": "Views/Vendors/New.cshtml",
+      "TargetPath": "Views/Vendors/New.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "Views/Home/Index.cshtml",
       "TargetPath": "Views/Home/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Vendors/Index.cshtml",
+      "TargetPath": "Views/Vendors/Index.cshtml",
       "FileKind": "mvc"
     }
   ],
